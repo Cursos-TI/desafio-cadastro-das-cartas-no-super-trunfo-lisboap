@@ -41,6 +41,8 @@ int main() {
     scanf("%d", &pontos1);
 
     printf("Carta 2:\n");
+    scanf("%c", &estado2);
+    printf("Carta 2:\n");
     printf("Digite o estado: ");
     scanf("%c", &estado2);
     printf("Digite o códgio da carta: ");
